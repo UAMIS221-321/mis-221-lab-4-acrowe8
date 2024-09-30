@@ -1,0 +1,15 @@
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.AssemblyInfoInputs.cache
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.AssemblyInfo.cs
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.csproj.CoreCompileInputs.cache
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.sourcelink.json
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/bin/Debug/net8.0/mis-221-lab-4-acrowe8
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/bin/Debug/net8.0/mis-221-lab-4-acrowe8.deps.json
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/bin/Debug/net8.0/mis-221-lab-4-acrowe8.runtimeconfig.json
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/bin/Debug/net8.0/mis-221-lab-4-acrowe8.dll
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/bin/Debug/net8.0/mis-221-lab-4-acrowe8.pdb
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.dll
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/refint/mis-221-lab-4-acrowe8.dll
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.pdb
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/mis-221-lab-4-acrowe8.genruntimeconfig.cache
+/Users/alexacrowe/Documents/MIS221/labs/mis-221-lab-4-acrowe8/obj/Debug/net8.0/ref/mis-221-lab-4-acrowe8.dll
